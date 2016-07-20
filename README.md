@@ -1,2 +1,5 @@
 # dot-grid
-Source AI file and PDFs for printing 5mm dotgrid paper.
+
+An illustrator file for a 5mm dot-grid sized to letter-sized paper.
+
+PDFs has printable versions for convenience.
